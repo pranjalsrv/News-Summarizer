@@ -1,0 +1,6 @@
+transformers==2.11.0
+requests==2.24.0
+fastapi==0.58.1
+torch==1.5.1
+python-multipart==0.0.5
+unicorn==1.0.1
